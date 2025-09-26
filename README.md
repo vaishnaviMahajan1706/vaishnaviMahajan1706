@@ -1,7 +1,7 @@
 Hi , I'm Vaishnavi 👋
-👩‍💻 Aspiring SDET | Software Developer
+👩‍💻 Aspiring SDET |
 Passionate about building robust applications and ensuring software quality through automation.
-Currently focused on Java Development, Automation Testing (Selenium, TestNG, Cucumber) and growing expertise in Performance and API testing**.
+Currently focused on , Automation Testing (Selenium, TestNG, Cucumber,JMeter) and growing expertise in Performance testing and API testing**.
 
 🛠 Tech Stack
 Languages: Java, SQL, JavaScript, HTML, CSS
